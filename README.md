@@ -1,4 +1,6 @@
 # Potato Disease Prediction Model
+![Screenshot (337)](https://github.com/user-attachments/assets/95bc06b8-4004-47a9-9d22-55f9830ef3ab)
+
 
 ## Overview
 This project aims to assist farmers in diagnosing diseases in their potato crops by using image classification. The model is built using a Convolutional Neural Network (CNN) architecture in TensorFlow to accurately detect and classify potato plant diseases (Early Blight, Late Blight, and Healthy).The model is trained on a dataset of potato leaf images and can be used to accurately identify the health status of potato plants. Future enhancements include deploying the model on Google Cloud Platform (GCP) and integrating it into a web application with a React frontend.
